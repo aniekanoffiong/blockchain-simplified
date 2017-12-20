@@ -1,0 +1,26 @@
+{
+  "name": "blockchain-simple",
+  "version": "1.0.0",
+  "description": "A very simplified implementation of blockchain gotten from https://dev.to/damcosset/trying-to-understand-blockchain-by-making-one-ce4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aniekanoffiong/blockchain-simplified.git"
+  },
+  "keywords": [
+    "blockchain",
+    "technology"
+  ],
+  "author": "Damien Cosset",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aniekanoffiong/blockchain-simplified/issues"
+  },
+  "homepage": "https://github.com/aniekanoffiong/blockchain-simplified#readme",
+  "dependencies": {
+    "js-sha256": "^0.9.0"
+  }
+}
